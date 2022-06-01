@@ -31,10 +31,10 @@ Writing well designed, testable, efficient code by using best software developme
                                 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
                     </p>
                     
-                  ### Socials
+                 
+     ###Social             
                   
-                  
-                <p align="left">
+  <p align="left">
                           
                       <a href="https://www.codesandbox.com/u/Gya7329" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
                           
